@@ -46,3 +46,12 @@ A good regression model typically has:
 Low MSE
 Low RMSE
 High R² Score
+# Skills Demonstrated
+Data Analysis
+Machine Learning
+Regression Modeling
+Feature Selection
+Model Evaluation
+Scikit-learn
+Python Programming
+Model Saving using Pickle
