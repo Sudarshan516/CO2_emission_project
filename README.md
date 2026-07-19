@@ -9,12 +9,12 @@ The project demonstrates the complete machine learning workflow, including data 
 # Objective
 The objective of this project is to build an accurate regression model that predicts CO₂ emissions while minimizing prediction error using the Random Forest algorithm.
 # Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
 Pickle
 # Project Workflow
 ## 1. Import Required Libraries
@@ -47,11 +47,11 @@ Low MSE
 Low RMSE
 High R² Score
 # Skills Demonstrated
-Data Analysis
-Machine Learning
-Regression Modeling
-Feature Selection
-Model Evaluation
-Scikit-learn
-Python Programming
+Data Analysis,
+Machine Learning,
+Regression Modeling,
+Feature Selection,
+Model Evaluation,
+Scikit-learn,
+Python Programming,
 Model Saving using Pickle
